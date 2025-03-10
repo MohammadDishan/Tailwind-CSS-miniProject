@@ -1,2 +1,2 @@
-# Tailwind-CSS-miniProject
+# Tailwind CSS-miniProject
 Make a Mini-Project using Tailwind CSS.
